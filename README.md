@@ -1,4 +1,7 @@
-### Hi there 👋, I am Edu! (a.k.a., Leunar' Da Vinc' del Llobregat)
+### Hi there 👋, I am Edu!
+> a.k.a., Leunar' Da Vinc' del Llobregat
+
+
 #### I'm a Software engineer working in Barcelona, Spain.
 
 
@@ -18,7 +21,10 @@ Some of my favorite technologies: Symfony, Doctrine, MySQL, Angular, Vue, Flutte
 - 📫 Reach me: [edezacas@gmail.com](mailto:edezacas@gmail.com)
 
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edezacas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/edezacas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eduarddeza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/edezacas)
+
+------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edezacas)](https://github.com/anuraghazra/github-readme-stats)
 
