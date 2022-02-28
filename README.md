@@ -1,11 +1,5 @@
-### Hi there 👋, I am Edu!
-#### a.k.a., Leunar' Da Vinc' del Llobregat
-
-<br/>
-
-**I'm a Software engineer working in Barcelona, Spain.**
-
-<br/>
+### Hi there 👋, I am Edu! (a.k.a., Leunar' Da Vinc' del Llobregat)
+#### I'm a Software engineer working in Barcelona, Spain.
 
 
 Based on an agile methodology and clean code my goal is to develop innovative products and services.
